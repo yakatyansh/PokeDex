@@ -31,6 +31,3 @@ This is a Dex which is used to find a Pokemon's stats just by typing in the name
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
